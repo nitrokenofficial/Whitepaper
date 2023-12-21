@@ -2,7 +2,7 @@ Nitroken Whitepaper V1.0
 
 ABSTRACT
 
-NITROKEN is a blockchain-based structure that produces and develops solutions on DeFi and SocialFi. This Whitepaper includes the definition of NITROKEN and NITO Token, their purpose of use and the solutions they offer to the industry. NITROKEN aims to provide free, safe and fast experiences to its users by producing and developing blockchainbased decentralized projects.
+NITROKEN is a blockchain-based structure that produces and develops solutions on DeFi and SocialFi. This Whitepaper includes the definition of NITROKEN and NITO Token, their purpose of use and the solutions they offer to the industry. NITROKEN aims to provide free, safe and fast experiences to its users by producing and developing blockchain-based decentralized projects.
 
 1.	NITROKEN OVERVIEW
    
